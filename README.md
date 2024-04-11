@@ -1,4 +1,4 @@
-## Learning Apach Spark with Python Korean
+## Learning Apach Spark with Python - Korean
 
 The repertoire is filled with content about Korean language Notes for learning Apache Spark with Python.
 
